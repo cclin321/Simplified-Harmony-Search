@@ -11,6 +11,7 @@ Stability: Consistently achieves high precision and demonstrates stable converge
 Flexibility: Easily integrated with additional strategies (e.g., local search, mutation operations) to further enhance global search ability.
 
 4.Pseudocode
+
 ![图片1](https://github.com/user-attachments/assets/4749631b-10ec-46d5-b514-b892dbab72f5)
 
 
