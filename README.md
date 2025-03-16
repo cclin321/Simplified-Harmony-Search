@@ -17,4 +17,4 @@ Flexibility: Easily integrated with additional strategies (e.g., local search, a
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 5. Contact
-For questions or further discussions, please contact:Chun-Cheng Lin (cclin321@nycu.edu.tw)
+For questions or further discussions, please contact: Chun-Cheng Lin (cclin321@nycu.edu.tw)
