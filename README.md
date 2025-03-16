@@ -8,7 +8,7 @@ Efficiency: Reduce computational cost by streamlining the note generation proces
 Stability: Consistently achieve high precision and demonstrate stable convergence behavior.
 Flexibility: Easily integrated with additional strategies (e.g., local search, and mutation operations) to further enhance global search ability.
 
-3.Pseudocode
+3. Pseudocode
 
 ![图片1](https://github.com/user-attachments/assets/4749631b-10ec-46d5-b514-b892dbab72f5)
 
