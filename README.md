@@ -15,16 +15,18 @@ Flexibility: Easily integrated with additional strategies (e.g., local search, a
 4. Citation
 If you use this code in your research, please cite:
 
-> XXX (2025) XXX. *Cluster Computing*, xxx.
+> C.-C.  Lin, S.-Y. Zhang, and Z.-Y. A. Chen (2025) Simplified Harmony Search: Novel algorithm design and its applications in engineering design optimization problems. Cluster Computing, 28(12), 772.
 
 ```bibtex
-@article{XXX2025,
-  author  = {XXX},
-  title   = {XXX},
-  journal = {Cluster Computing},
-  year    = {2025},
-  volume  = {xxx},
-  pages   = {xxx}
+@article{Lin2025SHS,
+  author    = {C.-C. Lin and S.-Y. Zhang and Z.-Y. A. Chen},
+  title     = {Simplified Harmony Search: Novel algorithm design and its applications in engineering design optimization problems},
+  journal   = {Cluster Computing},
+  year      = {2025},
+  volume    = {28},
+  number    = {12},
+  pages     = {772},
+  doi       = {10.1007/s10586-XXX-XXXX-X} % ← 如果你有 DOI 可以補上
 }
 
 5. License
