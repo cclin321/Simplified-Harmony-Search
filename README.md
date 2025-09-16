@@ -12,9 +12,23 @@ Flexibility: Easily integrated with additional strategies (e.g., local search, a
 
 ![图片1](https://github.com/user-attachments/assets/4749631b-10ec-46d5-b514-b892dbab72f5)
 
+4. Citation
+If you use this code in your research, please cite:
 
-4. License
+> XXX (2025) XXX. *Cluster Computing*, xxx.
+
+```bibtex
+@article{XXX2025,
+  author  = {XXX},
+  title   = {XXX},
+  journal = {Cluster Computing},
+  year    = {2025},
+  volume  = {xxx},
+  pages   = {xxx}
+}
+
+5. License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-5. Contact
+6. Contact
 For questions or further discussions, please contact: Chun-Cheng Lin (cclin321@nycu.edu.tw)
