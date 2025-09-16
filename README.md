@@ -28,6 +28,7 @@ If you use this code in your research, please cite:
   pages     = {772},
   doi       = {10.1007/s10586-025-05309-w}
 }
+```
 
 5. License
 This project is licensed under the MIT License. See the LICENSE file for more details.
