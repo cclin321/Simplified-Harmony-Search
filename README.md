@@ -26,7 +26,7 @@ If you use this code in your research, please cite:
   volume    = {28},
   number    = {12},
   pages     = {772},
-  doi       = {10.1007/s10586-XXX-XXXX-X} % ← 如果你有 DOI 可以補上
+  doi       = {10.1007/s10586-025-05309-w}
 }
 
 5. License
